@@ -1,2 +1,3 @@
+library(ggplot2)
 x <- rnorm(1000)
-plot(x)
+qplot(x)
